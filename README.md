@@ -1,1 +1,1 @@
-# proje
+# html and css project
