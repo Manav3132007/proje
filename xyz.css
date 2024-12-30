@@ -1,0 +1,38 @@
+body{
+    
+    background-color: azure;
+    
+}
+.card{
+    background-color:whitesmoke;
+    border: 1px solid black;
+    height: 700px;
+    width: 510px;
+    border-radius: 10px;
+    border: none;
+ .image{
+
+    padding: 5px;
+
+}
+.image img{
+    border-radius: 10px ;
+}
+.contente{
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.capsules sapn{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.content button{
+    width: 100px;
+     height: 25px;
+     background-color: bisque;
+     border-radius: 10px;
+     
+}
+.content{
+    text-align: center;
+}
